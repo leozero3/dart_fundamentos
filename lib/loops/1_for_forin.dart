@@ -1,3 +1,6 @@
+//      inicio /     condição   /   incremento
+//for (var i = 0; i < nomes.length; i++)
+
 void main() {
   var numero = List.generate(10, (index) => index);
   var nomes = ['Leo', 'isaac', 'amanda', 'luna'];
